@@ -1,0 +1,8 @@
+{
+  "name": "Smart Study Assistant",
+  "description": "An AI-powered study companion that transforms textbook chapters into comprehensive study guides, quizzes, and summaries using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
